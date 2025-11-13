@@ -1,6 +1,6 @@
-# Proyecto: Implementación de Búsqueda Binaria con Pytest
+# Tarea: Implementación de Búsqueda Binaria con Pytest
 
-Este proyecto forma parte de una práctica de laboratorio para aplicar pruebas unitarias en Python utilizando el framework **Pytest**. Se implementa el algoritmo de **búsqueda binaria** y se diseñan casos de prueba para verificar su correcto funcionamiento.
+Esta tarea forma parte de una práctica de laboratorio para aplicar pruebas unitarias en Python utilizando el framework **Pytest**. Se implementa el algoritmo de **búsqueda binaria** y se diseñan casos de prueba para verificar su correcto funcionamiento.
 
 ## Descripción
 
