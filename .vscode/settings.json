@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "busqueda_binaria_laboratorio"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
